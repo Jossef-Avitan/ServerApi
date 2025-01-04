@@ -1,0 +1,7 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+python-multipart==0.0.6
+urllib3<2.0.0
+requests-toolbelt==0.9.1
+imagekitio==3.0.1 
